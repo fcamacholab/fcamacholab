@@ -48,6 +48,7 @@ Observo el sistema. Mido lo que importa. Automatizo lo que se repite. Documento 
 
 Si algo no mejora eficiencia, estabilidad o claridad, no se queda.
 
+---
 
 ### 📌 Enlaces útiles
 🔗 LinkedIn: https://linkedin.com/in/fco-andres-camacho/  
