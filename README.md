@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hola, soy Francisco Andrés Camacho  
+# 👋 Hola, soy Andrés Camacho  
 ### Automatización · IA · Growth Marketing · SEO · Desarrollo Web
 
 Soy profesional con más de 15 años integrando **automatización inteligente, crecimiento digital y tecnología** para hacer que los proyectos no solo funcionen, sino escalen con sentido práctico. :contentReference[oaicite:0]{index=0}
